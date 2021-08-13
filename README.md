@@ -1,2 +1,2 @@
-# albraadluffy.com
+# albraa
 Technology Trend 
