@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+![newlogo](https://user-images.githubusercontent.com/35445464/129457818-6d82e287-2638-4aea-a837-2e62c21aa803.png)
 
-You can use the [editor on GitHub](https://github.com/albraadluffy/albraa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Final Project</title>
+    </head>
+    <body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        <p><h1 style="color:rgb(129, 129, 15)">My First Website</h1></p>
+      
+        <nav>
+            <ul>
+                <li><a href="https://www.one.com/en/" style="color:blue">One</a></li>
+                <li><a href="https://www.twoo.com/" style="color:blue">Two</a></li>
+                <li><a href="https://www.threecosmetics.com/en/" style="color:blue">Three</a></li>
+                <li><a href="https://four.com/" style="color:blue">Four</a></li>
+            </ul>
+        </nav>
+        <p><h2 style="color:rgb(129, 129, 15">Favorite Food </h2></p>
+        <ul>
+            <li style="color:rgb(241, 241, 52)">Banana</li>
+            <li style="color:orange">Orange</li>
+            <li style="color:red">Pine Apple</li>
+            <li style="color:green">Water Melon</li>
+        </ul>
+        <p><h2 style="color:rgb(129, 129, 15">Achievement</h2></p>
+        <p style="color:rgb(59, 40, 5)">Progress in this course(100%) <progress max="100" value="100"></progress></p>
+        <p style="color:rgb(59, 40, 5)">Progress in Specialization Capstone(20%) <progress max="100" value="20"></progress></p>
+        <p style="color:rgb(59, 40, 5)">Progress in Life Goals(75%) <progress max="100" value="75"></progress></p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albraadluffy/albraa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <h2 style="color:rgb(129, 129, 15">About Me</h2>
+        <details>
+            <summary style="color:rgb(75, 75, 7)">My Childhood</summary>
+            <p>I growup in Africa, Where I had my the best Childhood memories.</p>
+        </details>
+        <a href="http://intro-webdesign.com/"><img src="https://user-images.githubusercontent.com/35445464/129457818-6d82e287-2638-4aea-a837-2e62c21aa803.png" alt="Click Image to go to link"></a>
+        <p> This page was created by Albraa & Colleen Van Len. To learn more about web design, visit <a href="http://intro-webdesign.com/">Intro to web design.</a> </p>
+    </body>
+    </html>
