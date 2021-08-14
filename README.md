@@ -1,3 +1,4 @@
+![newlogo](https://user-images.githubusercontent.com/35445464/129457725-63e95164-2859-42fb-94ca-b546aa7edc30.png)
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -33,7 +34,7 @@
             <summary style="color:rgb(75, 75, 7)">My Childhood</summary>
             <p>I growup in Africa, Where I had the best Childhood memories</p>
         </details>
-        <a href="http://intro-webdesign.com/"><img src="C:\Users\ALBRAA MUKHTAR\newlogo.png" alt="Click Image to go to link"></a>
+        <a href="http://intro-webdesign.com/"><img src="https://user-images.githubusercontent.com/35445464/129457725-63e95164-2859-42fb-94ca-b546aa7edc30.png" alt="Click Image to go to link"></a>
         <p> This page was created by Albraa & Colleen Van Len. To learn more about web design, visit <a href="http://intro-webdesign.com/">Intro to web design.</a> </p>
     </body>
     </html>
